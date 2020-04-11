@@ -57,3 +57,5 @@ In order to have a more open and welcoming community, Atomic Red Team adheres to
 ## License
 
 See the [LICENSE](https://github.com/redcanaryco/atomic-red-team/blob/master/LICENSE.txt) file.
+
+Here is a new line.
